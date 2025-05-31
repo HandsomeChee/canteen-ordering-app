@@ -1,0 +1,198 @@
+[
+  {
+    "category": "Rice",
+    "name": "Nasi Lemak",
+    "description": "Fragrant rice cooked in coconut milk, served with sambal, egg, peanuts, and anchovies.",
+    "price": 10.50,
+    "image": "nasi_lemak.jpg"
+  },
+  {
+    "category": "Rice",
+    "name": "Chicken Rice",
+    "description": "Steamed chicken served with fragrant chicken rice, chili sauce, and soy sauce.",
+    "price": 8.50,
+    "image": "chicken_rice.jpg"
+  },
+  {
+    "category": "Rice",
+    "name": "Kung Pao Chicken Rice",
+    "description": "A spicy, stir-fried Chinese dish made with cubes of cooked chicken, peanuts, vegetables and chili peppers, and Sichuan peppercorns.",
+    "price": 9.00,
+    "image": "kung_pao_chicken_rice.jpg"
+  },
+  {
+    "category": "Rice",
+    "name": "Nasi Kerabu",
+    "description": "Blue-colored rice served with herbs, salted egg, and fried fish.",
+    "price": 11.00,
+    "image": "nasi_kerabu.jpg"
+  },
+  {
+    "category": "Rice",
+    "name": "Yangzhou Fried Rice",
+    "description": "Classic Chinese fried rice with shrimp, ham, eggs, and vegetables.",
+    "price": 9.50,
+    "image": "yangzhou_fried_rice.jpg"
+  },
+  {
+    "category": "Rice",
+    "name": "Claypot Chicken Rice",
+    "description": "Aromatic rice cooked in claypot with Chinese sausage, vegetables and mushrooms.",
+    "price": 12.00,
+    "image": "claypot_rice.jpg"
+  },
+  {
+    "category": "Rice",
+    "name": "Chicken Rice Bowl",
+    "description": "Spicy grilled chicken on rice with cabbage, carrot, and avocado.",
+    "price": 13.50,
+    "image": "korean_chicken_bowl.jpg"
+  },
+  {
+    "category": "Noodle",
+    "name": "Mee Goreng Mamak",
+    "description": "Spicy stir-fried yellow noodles with tofu, potato, and vegetables.",
+    "price": 10.00,
+    "image": "mee_goreng_mamak.jpg"
+  },
+  {
+    "category": "Noodle",
+    "name": "Char Kuey Teow",
+    "description": "Flat rice noodles stir-fried with prawns, egg, bean sprouts, and Chinese sausage.",
+    "price": 7.00,
+    "image": "char_kuey_teow.jpg"
+  },
+  {
+    "category": "Noodle",
+    "name": "Laksa Penang",
+    "description": "Tangy fish-based noodle soup with thick rice noodles and vegetables.",
+    "price": 10.50,
+    "image": "laksa_penang.jpg"
+  },
+  {
+    "category": "Noodle",
+    "name": "Mee Rebus",
+    "description": "Yellow noodles served in thick spicy-sweet potato gravy with egg and tofu.",
+    "price": 7.20,
+    "image": "mee_rebus.jpg"
+  },
+  {
+    "category": "Noodle",
+    "name": "Beef Chow Fun",
+    "description": "Stir-fried flat rice noodles with tender beef, bean sprouts, and scallions.",
+    "price": 11.00,
+    "image": "beef_chow_fun.jpg"
+  },
+  {
+    "category": "Noodle",
+    "name": "Wonton Noodle",
+    "description": "Thin egg noodles with pork wontons in clear broth, served with leafy greens.",
+    "price": 9.00,
+    "image": "wonton_noodle.jpg"
+  },
+  {
+    "category": "Drinks",
+    "name": "Teh Tarik",
+    "description": "Famous Malaysian milk tea, pulled for a frothy top.",
+    "price": 2.50,
+    "image": "teh_tarik.jpg"
+  },
+  {
+    "category": "Drinks",
+    "name": "Milo Ais",
+    "description": "Iced chocolate malt drink, a Malaysian favorite.",
+    "price": 4.00,
+    "image": "milo_ais.jpg"
+  },
+  {
+    "category": "Drinks",
+    "name": "Coke",
+    "description": "Classic fizzy cola drink, served chilled.",
+    "price": 5.00,
+    "image": "coca_cola.jpg"
+  },
+  {
+    "category": "Drinks",
+    "name": "Limau Ais",
+    "description": "Refreshing iced lime drink, perfect on a hot day.",
+    "price": 2.50,
+    "image": "limau_ais.jpg"
+  },
+  {
+    "category": "Drinks",
+    "name": "Soy Milk",
+    "description": "Traditional Chinese soy milk, served hot or cold.",
+    "price": 3.00,
+    "image": "soy_milk.jpg"
+  },
+  {
+    "category": "Dessert",
+    "name": "Cendol",
+    "description": "Shaved ice with pandan jelly, red beans, and coconut milk with gula melaka.",
+    "price": 6.50,
+    "image": "cendol.jpg"
+  },
+  {
+    "category": "Dessert",
+    "name": "Tau Fu Fa",
+    "description": "Silky smooth soybean pudding served with sweet syrup or ginger syrup.",
+    "price": 2.80,
+    "image": "tau_fu_fa.jpg"
+  },
+  {
+    "category": "Dessert",
+    "name": "Pisang Goreng",
+    "description": "Deep-fried banana fritters, crispy outside and sweet inside.",
+    "price": 6.00,
+    "image": "pisang_goreng.jpg"
+  },
+  {
+    "category": "Dessert",
+    "name": "Mango Pomelo Sago",
+    "description": "Refreshing dessert with mango, pomelo, sago pearls, and coconut milk.",
+    "price": 7.50,
+    "image": "mango_sago.jpg"
+  },
+  {
+    "category": "Dessert",
+    "name": "Egg Tart",
+    "description": "Flaky pastry crust filled with smooth egg custard.",
+    "price": 3.50,
+    "image": "egg_tart.jpg"
+  },
+  {
+    "category": "Snacks",
+    "name": "Karipap",
+    "description": "Deep-fried pastry filled with curried potatoes and chicken.",
+    "price": 5.50,
+    "image": "karipap.jpg"
+  },
+  {
+    "category": "Snacks",
+    "name": "Nuggets",
+    "description": "Crispy golden chicken nuggets, served with dipping sauce.",
+    "price": 6.00,
+    "image": "nuggets.jpg"
+  },
+  {
+    "category": "Snacks",
+    "name": "Popcorn Chicken",
+    "description": "Bite-sized seasoned fried chicken, crunchy and flavorful.",
+    "price": 7.50,
+    "image": "popcorn_chicken.jpg"
+  },
+  {
+    "category": "Snacks",
+    "name": "Popiah",
+    "description": "Fresh spring roll with vegetables, egg, and sweet sauce.",
+    "price": 5.20,
+    "image": "popiah.jpg"
+  },
+  {
+    "category": "Snacks",
+    "name": "Char Siu Bao",
+    "description": "Steamed fluffy buns filled with sweet barbecued pork.",
+    "price": 4.50,
+    "image": "char_siu_bao.jpg"
+  }
+]
